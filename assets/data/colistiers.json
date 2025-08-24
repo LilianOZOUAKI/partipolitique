@@ -1,0 +1,44 @@
+[
+  {
+    "nom": "[Votre Nom]",
+    "role": "Candidat tête de liste",
+    "responsabilite": "Vision et coordination générale",
+    "icone": "🗳",
+    "citation": "Je crois en une communauté unie, forte et tournée vers l'avenir."
+  },
+  {
+    "nom": "Mme [Nom]",
+    "role": "Enseignante",
+    "responsabilite": "Éducation et Jeunesse",
+    "icone": "🎯",
+    "citation": "L’éducation est la clé pour libérer le potentiel de notre jeunesse."
+  },
+  {
+    "nom": "M. [Nom]",
+    "role": "Entrepreneur",
+    "responsabilite": "Économie locale et emploi",
+    "icone": "🎯",
+    "citation": "Ensemble, développons une économie locale forte et durable."
+  },
+  {
+    "nom": "Mme [Nom]",
+    "role": "Infirmière",
+    "responsabilite": "Santé et solidarité",
+    "icone": "🎯",
+    "citation": "La santé et la solidarité doivent être au cœur de notre action."
+  },
+  {
+    "nom": "M. [Nom]",
+    "role": "Responsable associatif",
+    "responsabilite": "Vie citoyenne et culture",
+    "icone": "🎯",
+    "citation": "Une culture vivante et une citoyenneté active renforcent nos liens."
+  },
+  {
+    "nom": "Mme [Nom]",
+    "role": "Étudiante",
+    "responsabilite": "Dynamisme et innovation des jeunes",
+    "icone": "🎯",
+    "citation": "La jeunesse est une source d’innovation et d’énergie pour notre avenir."
+  }
+]

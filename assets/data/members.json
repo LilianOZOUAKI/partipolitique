@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2",
+    "fullName": "LEVY",
+    "role": "Président",
+    "photoUrl": "assets/images/p1.jpg",
+    "bio": "Passionné par le développement durable et l’éducation.",
+    "email": "levy@example.com",
+    "phoneNumber": "+241 07 89 45 21"
+  },
+  {
+    "id": "1",
+    "fullName": "RENEL",
+    "role": "Secrétaire Général",
+    "photoUrl": "assets/images/p2.jpg",
+    "bio": "Engagé pour la justice sociale et la transparence.",
+    "email": "renel@example.com",
+    "phoneNumber": "+241 01 23 45 67"
+  },
+  {
+    "id": "4",
+    "fullName": "TROYCE",
+    "role": "Consultant",
+    "photoUrl": "assets/images/p3.jpg",
+    "bio": "Activiste confirmée et millitante",
+    "email": "troyce@example.com",
+    "phoneNumber": "+241 10 20 30 40"
+  },
+  {
+    "id": "3",
+    "fullName": "SMALTO",
+    "role": "Consultant",
+    "photoUrl": "assets/images/p4.jpg",
+    "bio": "Créateur de la plate-forme OGOWE",
+    "email": "smalto@example.com",
+    "phoneNumber": "+241 62 10 33 07"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Grand Meeting de lancement",
+    "date": "2025-08-01",
+    "location": "Stade de l’Amitié, Libreville",
+    "description": "Ouverture officielle de la campagne 2025 avec tous les membres du bureau politique. Discours du président du parti, animations culturelles et présentation des têtes de liste régionales."
+  },
+  {
+    "title": "Atelier participatif : Jeunesse et politique",
+    "date": "2025-08-03",
+    "location": "Maison des jeunes, Owendo",
+    "description": "Échanges ouverts avec les jeunes citoyens sur leur rôle dans la vie politique et la nécessité d’un engagement citoyen dès le plus jeune âge."
+  },
+  {
+    "title": "Marche citoyenne pour l’emploi",
+    "date": "2025-08-07",
+    "location": "Place du Marché, Port-Gentil",
+    "description": "Manifestation pacifique pour soutenir l’emploi local et protester contre la précarité des jeunes diplômés. Le parti proposera à cette occasion ses mesures phares pour le travail."
+  },
+  {
+    "title": "Conférence : Femmes et leadership",
+    "date": "2025-08-10",
+    "location": "Centre Culturel, Franceville",
+    "description": "Conférence animée par des femmes leaders du parti et des associations partenaires, axée sur la promotion des droits des femmes et leur place en politique."
+  },
+  {
+    "title": "Forum des agriculteurs",
+    "date": "2025-08-12",
+    "location": "Salle polyvalente, Oyem",
+    "description": "Journée d’échanges avec les coopératives agricoles et les producteurs locaux pour co-construire une politique nationale de souveraineté alimentaire."
+  },
+  {
+    "title": "Séminaire interne des coordinateurs régionaux",
+    "date": "2025-08-15",
+    "location": "Siège national du parti",
+    "description": "Formation des coordinateurs de campagne sur les outils numériques, les argumentaires de terrain, et les modalités de mobilisation."
+  },
+  {
+    "title": "Débat public : Quelle réforme pour l’éducation ?",
+    "date": "2025-08-18",
+    "location": "Université de Masuku",
+    "description": "Débat participatif avec étudiants, enseignants et parents autour des propositions du parti pour réformer le système éducatif gabonais."
+  },
+  {
+    "title": "Caravane médicale solidaire",
+    "date": "2025-08-20",
+    "location": "Ntoum, Bikélé et périphéries",
+    "description": "Campagne de consultations gratuites en partenariat avec des médecins bénévoles. L’objectif est de sensibiliser aux enjeux de la santé communautaire."
+  },
+  {
+    "title": "Rencontre avec la diaspora",
+    "date": "2025-08-22",
+    "location": "En ligne (Zoom et YouTube Live)",
+    "description": "Échanges directs avec les membres de la diaspora gabonaise à l’étranger. Thèmes abordés : vote à distance, investissements, retours au pays."
+  },
+  {
+    "title": "Soirée culturelle & levée de fonds",
+    "date": "2025-08-25",
+    "location": "Hôtel Nomad, Libreville",
+    "description": "Soirée caritative avec artistes engagés, tombola et buffet. Tous les fonds récoltés iront au financement des projets communautaires soutenus par le parti."
+  }
+]
